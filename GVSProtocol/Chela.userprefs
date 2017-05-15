@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Chela.CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\controlGVS.cs">
+    <Files>
+      <File FileName="Assets\control.cs" Line="11" Column="13" />
+      <File FileName="Assets\controlGVS.cs" Line="484" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

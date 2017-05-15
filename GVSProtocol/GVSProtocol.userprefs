@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="GVSProtocol.CSharp.csproj">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\OlderVerProtocol\Assets\Scripts\Seeded_Random.cs">
+    <Files>
+      <File FileName="..\OlderVerProtocol\Assets\Scripts\Seeded_Random.cs" Line="577" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
